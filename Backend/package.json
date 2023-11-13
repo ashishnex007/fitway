@@ -6,6 +6,7 @@
   "type": "module",
   "proxy": "http://localhost:3000",
   "scripts": {
+    "build": "npm i",
     "server": "nodemon index.js"
   },
   "author": "ARIF SHAIKH",
